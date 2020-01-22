@@ -4,7 +4,7 @@ This notebook aims to study a marketing campaign of a Portuguese bank, using the
 
 ## First Steps
 
-If you want just to visualize the results, you can simply open the html file on your browser. But, to run the notebook, consider the next steps:
+To run the notebook, consider the next steps:
 
 ### Requirements
 
