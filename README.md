@@ -1,26 +1,26 @@
-# Teste Semantix
+# An Analysis of the Bank Marketing Dataset
 
-Este projeto realiza uma análise na base Bank Marketing (https://archive.ics.uci.edu/ml/datasets/bank+marketing)
+This notebook aims to study a marketing campaign of a Portuguese bank, using the Bank Marketing Dataset (https://archive.ics.uci.edu/ml/datasets/bank+marketing)
 
-## Primeiros passos
+## First Steps
 
-Para apenas visualizar os resultados do notebook, basta abrir o arquivo Resultados.html em seu navegador, mas caso deseje reproduzir os resultados, é necessário instalar algumas dependências.
+If you want just to visualize the results, you can simply open the html file on your browser. But, to run the notebook, consider the next steps:
 
-### Pré-requisitos
+### Requirements
 
-* Python3 [https://www.anaconda.com/distribution/] (Versão recomendada para se utilizar Jupyter)
-* Jupyter Notebook [https://jupyter.org/install]
+* Python3 [https://www.anaconda.com/distribution/] (Recomended version to use Jupyter)
+* Jupyter Notebook [https://jupyter.org/install] (if you install Anaconda, this should come together)
 
-Com os programas anteriores instalados, instale os seguintes pacotes para python3:
+With python installed, you can install the dependencies (not necessary if using Anaconda):
 
 ```sh
 pip install numpy==1.16.4 statsmodels==0.10.0 pandas==0.25.1 matplotlib==3.1.0 scikit-learn==0.21.2
 ```
 
-## Rodando o notebook
+## Running the notebook
 
-Com tudo instalado, navegue até a raiz do projeto e digite:
+After installing the requirements, navigate to the root of the project and run:
 
 ```sh
-jupyter notebook TesteSemantix.ipynb
+jupyter-notebook 'An Analysis of the Bank Marketing Dataset.ipynb'
 ```
